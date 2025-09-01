@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "1cmdIqrRTmYrCQhAOGgiziLfvMjO9kn2EcHsqEhV2HY=",
+  "Source": "GitHubHealth.Api",
+  "BasePath": "_content/GitHubHealth.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

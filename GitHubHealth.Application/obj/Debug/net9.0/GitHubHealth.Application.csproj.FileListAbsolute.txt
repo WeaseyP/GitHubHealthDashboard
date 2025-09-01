@@ -1,0 +1,12 @@
+C:\Users\ryanp\source\repos\GitHubHealthDashboard\GitHubHealthDashboard\GitHubHealth.Application\bin\Debug\net9.0\GitHubHealth.Application.deps.json
+C:\Users\ryanp\source\repos\GitHubHealthDashboard\GitHubHealthDashboard\GitHubHealth.Application\bin\Debug\net9.0\GitHubHealth.Application.dll
+C:\Users\ryanp\source\repos\GitHubHealthDashboard\GitHubHealthDashboard\GitHubHealth.Application\bin\Debug\net9.0\GitHubHealth.Application.pdb
+C:\Users\ryanp\source\repos\GitHubHealthDashboard\GitHubHealthDashboard\GitHubHealth.Application\obj\Debug\net9.0\GitHubHealth.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanp\source\repos\GitHubHealthDashboard\GitHubHealthDashboard\GitHubHealth.Application\obj\Debug\net9.0\GitHubHealth.Application.AssemblyInfoInputs.cache
+C:\Users\ryanp\source\repos\GitHubHealthDashboard\GitHubHealthDashboard\GitHubHealth.Application\obj\Debug\net9.0\GitHubHealth.Application.AssemblyInfo.cs
+C:\Users\ryanp\source\repos\GitHubHealthDashboard\GitHubHealthDashboard\GitHubHealth.Application\obj\Debug\net9.0\GitHubHealth.Application.csproj.CoreCompileInputs.cache
+C:\Users\ryanp\source\repos\GitHubHealthDashboard\GitHubHealthDashboard\GitHubHealth.Application\obj\Debug\net9.0\GitHubHealth.Application.sourcelink.json
+C:\Users\ryanp\source\repos\GitHubHealthDashboard\GitHubHealthDashboard\GitHubHealth.Application\obj\Debug\net9.0\GitHubHealth.Application.dll
+C:\Users\ryanp\source\repos\GitHubHealthDashboard\GitHubHealthDashboard\GitHubHealth.Application\obj\Debug\net9.0\refint\GitHubHealth.Application.dll
+C:\Users\ryanp\source\repos\GitHubHealthDashboard\GitHubHealthDashboard\GitHubHealth.Application\obj\Debug\net9.0\GitHubHealth.Application.pdb
+C:\Users\ryanp\source\repos\GitHubHealthDashboard\GitHubHealthDashboard\GitHubHealth.Application\obj\Debug\net9.0\ref\GitHubHealth.Application.dll
