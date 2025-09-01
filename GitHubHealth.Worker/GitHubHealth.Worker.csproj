@@ -10,4 +10,9 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.Extensions.Hosting" Version="9.0.3" />
   </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GitHubHealth.Application\GitHubHealth.Application.csproj" />
+    <ProjectReference Include="..\GitHubHealth.Infrastructure\GitHubHealth.Infrastructure.csproj" />
+  </ItemGroup>
 </Project>
