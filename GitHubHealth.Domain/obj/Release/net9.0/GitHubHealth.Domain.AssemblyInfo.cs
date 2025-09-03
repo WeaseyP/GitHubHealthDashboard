@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GitHubHealth.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91e482f77596f96112aa48c67b4d407eb38779ef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f59c0c138cc88c7b288fa8db6f9781f8a4270678")]
 [assembly: System.Reflection.AssemblyProductAttribute("GitHubHealth.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GitHubHealth.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

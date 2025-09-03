@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GitHubHealth.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e2293b0cc99674809352d4d354385bed19c41bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f59c0c138cc88c7b288fa8db6f9781f8a4270678")]
 [assembly: System.Reflection.AssemblyProductAttribute("GitHubHealth.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GitHubHealth.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
