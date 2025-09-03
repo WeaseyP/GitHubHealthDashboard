@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GitHubHealth.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e2293b0cc99674809352d4d354385bed19c41bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d189dbbc653c45c2cd9b7e4a5078e912198efe0")]
 [assembly: System.Reflection.AssemblyProductAttribute("GitHubHealth.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GitHubHealth.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
